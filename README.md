@@ -14,7 +14,7 @@ This project focuses on dynamic DOM rendering, modular JavaScript architecture, 
 
 ## 📸 Preview
 
-![Preview](./src/wallpaper.jpg)
+![Preview](./src/image.png)
 
 ---
 
